@@ -1,0 +1,66 @@
+{
+    "id": "itemaa",
+    "name": "Satin Jacket",
+    "company": "Elite Crafts",
+    "price": 600,
+    "colors": [
+        "black",
+        "orange",
+        "red",
+        "blue",
+        "green"
+    ],
+    "description": "Varsity jacket is crafted in a superior quality finest 100% Satin Body and Satin Sleeves. 2 Front Side pockets and 1 inside pocket in the jacket. The polyester quilted inside lining-Padded is excellent insulation keeping you warm, even during the coldest days. Rib knit cuffs, Collar and Bottom of Jackets made by soft shell knit material - protect your skin.",
+    "category": "mobile",
+    "featured": true,
+    "stock": 100,
+    "reviews": 100,
+    "stars": 4.8,
+    "image": [
+        {
+            "id": "randomid1",
+            "width": 1080,
+            "height": 650,
+            "url": "https://lh3.googleusercontent.com/pw/AIL4fc_YCK_d2ZwmddVwYVgjrYu36DHbf9PyjqZDPbgjvBw8V9ltgtxeCyq-rwV80OBAALWmMiWWjwg_r8ZMRAx4Z5rG9ddaxHPTiB_cWRgzYPbNla21SKcGAFV-AiOAEJ7A10eHvllWNXe0EO4KzXKRlV7XHsCO9b-sRnfOJgNFJZZOM6K5Dr0SpbRJBWBSQu9HCyvh5Zp4_vICqZO0PcMpC4IFICzoyRzRv85zyJxWpUvbxwe41MRQmNjHJnkn2-1tSr6N7dQiZiUmDfEDFyhIfUep1yG4Pij4WbAOyLgEgiCxZGWN_9ZcE4CLSy4pRGxg1Ye7R50LviRNce5OLQp9gTHWf-I92Z2jxpE0XFPvzZ2LProS5eylT0INsudR94yVwSwQNfGH4kCh3-GKs2tmx0RXqznlcZG7FaD70ID_DgKDSR-3s_ZrxTjHFdgfR1lZml-0xdsYXBglg4q4gBDpCdMDrhiqFIAM4CKf2yr1cQXZgkb-kKx4DDEdST5WV65HrXV1Ou-y6d6L5V5Cslk-_4qmiFdsKqK4fvKnQCdZGup0AMCmQbViXtoL7Iwet6n0-RxmZnq-eipTMFvSy9GYSB6-Qo5-IuMkoD-QnAZi5UJApCnTA-Jhb-iU7maligfUPp8t2mXSvcZ7i67pH99dEtBpC6A7yeKW8DMXg0XTiDjwNHZxNLWvuroRf4GGwJHWzJkPsycWhnPrb3osKJf0Rs6iKs454KHujGAk6038sJtWhN36z0PyrIzZpTgbk8QRcN_5szdJxd4RWHsDU5oBkb2qg0-xGnPguR5Tiz4NhjWvV8VWjYfhmqpCOTBZZ419e2bvaX_DxZvbC4GjLoUaRfla0fgjXxMQFK5tXp0sdthxx5lS_k0yAhIF7-uvEaVh_RGjyb4Aje1gEImwrjcDoA=w794-h759-s-no?authuser=0",
+            "filename": "prod-1.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": "https://lh3.googleusercontent.com/pw/AIL4fc9eyfS87iW4OxcdETfhy24iSLTGKak-cM0R63hDJUA_FJ-PHv1YHVpfFPC3irNmS0aMuGtc_7MUBrRc7vW-rFkfZPTvXFH-8dpyw7lhq0dwJ8lIjzLqLBgi6C81jFTMvtYz_Y24CJl0O9EZ5dauZcOfpfsFxALUOweacL8PSTVGrksAo0uWeA5EVkk7X3AFOXt1ZJBL47NmpF-YcwB3i2Z6wUcNi5m3lY19UBzJoPiXt-gaqBUqSF7s1LS2EUMfSlaBztEOVpaWaxoMgGNJzRdTTB83XFvFYrYbf18twKe-UlKQqMLkbQPLbc93uXOb6DRZzxUBdxnM12y2g3EdBwcT8yEO3OleSaZo8LKrZEonmEaZx2u0nIvPzv_T6SE__8PkRuNpJHn0FcgfFu1VEJPwi1njOlHhMdsbs86FJ3iJP-WgGvHWW-UKGk-V2jF-K3OMhPpYWk1ZvWxe8o4NkStrkp5vVuNHQ7AbLRU8cCUS40Wb8fIwHg45xEeo-shabyBr0DPm5U-l27ojH_1Xc0OjAticuqLPKToZuSDr3I9qhr_Pm1BpPGeY6X2oo2N7o-dVLFmpxZjOC1o70TihFchdTowTYCfsNoq4PSV_3Ump_p6x62PGb4zrtOf3F_OrvAmtfGs_DZzgVoCUhigvcSQUxYtdFd1Ru10jXnUL2J8Tw99aga5HlpSTgCLk_d_sHdUo8bZub7Bk3BY2YVUAyI5FAd2pUGOF7QPaxU05dlzK65aIuzyLx2-GLO0VLXLcI-g8MhrVuRs9ztpqLojlrMAl0en-qbJAo7JTUBZAmQgRgjbdBktcgCxrnkJFzMh9Y-ach9fKdfCDS11coN1DtqIAZuEXmOII_U0oEWOKSqA4tKqKoyh7quht0qkzS8rUHgSuIj4GJJc1ptcb3HZfxA=w794-h775-s-no?authuser=0",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": "https://lh3.googleusercontent.com/pw/AIL4fc_1-JMfvw7KG4vH3hUwZ7qs5yNMuvGxOSYKENQf2rZm8XYZy7NpeRuUBVj1ZAcAXrBH1vtwg9RCUzKSeJiAnanHC0G1nfOOb5otMCiDOEovUeTNkB3dOqStr46U2iK-UMd-ZvXYsAqMlbnS9sldKejyUW_tX4t3VmBNhoo9lOtyFEgHMRwmRcNovsFHtCCfE8FtWA5hdxj5tcCVYYfeqDxz9Z5l7IRyQg0cANWO4m2Z_xZYm_yjOON3RWbvZygdz2_zikg38eLsBruz2QOa4QQRETy2qYDk8U4V1qVyDQnQgwdixF3T5wHqmH3zy0x8uGea7R-n2Mk6vFwBDIIBKQCP_SIuWDwuuy7H9P1AqAc-QBFQPerpoeEwcDA4VSdCGGvolPGzTE3yzr0jqn0IOX3aTWllHC5zGyplRo-U-FGd-VHuZcLSFZHDSGzkZMjUqXAJSXIr84zFlYW_IKfU17KdaDEv_QtMw4X-l3FxqLLoatV4U0Y-0X5n3dQCDbAcCzgG5ANQZfn8EPQJiegQA9Kd0ubVlxpUFZRAxplAxyEOfLY9bYo1qsh7plkSH-85kYSwg13iIiNbSc5u_i9Ow-IR9X7H3DFTeBR7VYqbq_ZC_Yw8b91xmkNJ15QuSBs7_aF802yDgyKlzKjAznP_orO0P_GyJ0oktyFtZ_xViumLGUZIs_FZwI-EshB3hJeDKrz_g0SSpmnixLzWOdhwviEb-zdERCbzDUX9Te2KFa_L99SG1A6yuxWBr9thrkyyULpxaUFTB5GK1jJzY11iAk7yMiex3yY2BmBQQlTUqWP0zhKsKWYqyapBuaXyycKbVTtVlMFM8DgKJYahGj2CvBP11BDw17qtFmvh10aQ7xkxBOIBybcJCW3xKnrJJIdH19OXkfgPIY9O4OoycqyhMA=w794-h794-s-no?authuser=0",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url": "https://lh3.googleusercontent.com/pw/AIL4fc9Vvn4H56iA5jowpXE-HoJFPH_-38oerY01KBhm89AxhmJOpROeSnS1TwqoPjlKSPPU4MAF0yklJnA1LEhrZdFKmyJNPfMaI_B8mlUy0yPg0jb47SPrC5rHW2MrI-6ieJSELkQts7-MTKelil6B5w1aW1Q_B_wx27pZpiP3dx3GAr-URs5QMNVNIdh6yffndt-Oja_YU-_dh0t6y0M3hq8dxEpJwPDPbyCQsikflcmAijBoCtuHndmmJ9IxXXKTPtrgHrkP1OyBHLnwHAu8sSbbQZeBJV3oI923rDnLsumR_ohw-1P7Ok8Mq_XKgx22pNZN7VXJwV6o-ZCqV8HxLKQPZ-0CsCnTS1gcBOtHXzn8wxu_zoQ-Y_ssJav73LetbwFWJS8Cox3FnXNP1ZbjHeWeiT8PZEvlRHpoxh5xvzwow9dyyFWKCnxjEKxzLlUmTmlvhWHoThjyb9qURxHadhI5ikeUZCkG0w2bs_09NsX0apMGwG1VXaoXBxywWPZQcOcpOqaeApd7Wcb3Fi65Rt3Ij-U-n1Y9xFKbR8DDvp2Rd-pzjIjo7ti3348xzRwG840rKfOLyOmj4FPUS2Ef2Lb67r6rnYETQ9fW2UM0AJC3tWiVsA8002OmUvViQXmBmh2LmwTeSjQhgFTl7fYYNRtNKTNodIX07uzzp9xvX1mCwo162veocRVtiB9k1LZ_YDCzyVZJqkwFBVTsQmWukx1Q3ROuRtMjPcdidpwYpeN7cdqog18EhX3umRo6J3UleUYpgmTvt1YNgbnhD29MJMWpDk-4FN1hCU_LApZ3jqnnY9TBJTj5VeCL-VhkxMyB4cG4NdIxNU9yI3DlBmKLFzIEBM8j6uATtouq7gkRiauuXWDminYhQKtGg8K3uhqSbmXPhc74s9Ad3l0wvepERQ=w794-h830-s-no?authuser=0",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid5",
+            "width": 1080,
+            "height": 650,
+            "url": "https://lh3.googleusercontent.com/pw/AIL4fc_AWurrLgOpm83CHDsGwXv4t4vbR4ncumU-eDKB7LlyZvSuJ4Ax-LoOEFXXfqeR16S9pEIDW85BUOyBMRgoaRBc5xWYQc0sgM_xJJkztCufolTuMcGbNE8v_5XFhcFTMLNEDYNmIiQFZTqLsaMMMBVNk3ITwPn2MkaT2hO2_HjRM3NtPmxmd-2KVsX7pgsjdhr7LDC74ogkcp9t5RaAKSe_17HIZVZrVRjdCMYcz7vyFKDKkhCQQHToTJ74EQxa7RFGl8o_bnxMwmarHOUpAXV13OP06Eb3KaiDKRR_VvaDIVd_v1ExswgQgbmqnaPAQJobbUbSqiijUDllsOYf2vlamiB3q75SmF0aFVc0q785WaswwfRQc7V--qhFT9wMRcLDWrCWNTSVBjFj77ls0QuU-s8bGHpMLNocMvo3et6frHf00N8JZtN7VNo4jpZos4HoztbIIUjXVObE0GexyGd8RGgF0Te4Vwr4wCkzIjrWDYNorJJerOq20t0mKmEAppwullh-yZz2hVqXDJ6LuVjDvXEbDRBFTEcvKQIJvpCqeMp6CL1FXAIOt-B_a56Yq2dPysLv109Lm300sLySl7pjH6mKGulYNX4pJ7jTVB28Chyuh21MA8erifvC3XN3nYUd_gzOTzsGUBt_D10SbpRGgOrP7tHPrSEtoAYhNYysMxZNrCDCO50mPO0mt3EbaTW3QP9u4vOpHO6MpudplDfsCPTHgphPABz8KOIh27d0HptJzNMMk8ZA19yTtjtiFl1OFGTKYf80aqShZUDosCQKwozdIM07KoG_6aTc54_DPqrLKL1xF2kpHSSwG3epjJDQ0XBMagHRpsR_qk6pqCGFTih55PObk88vN1kTFD0HmXFHz8irzNifqqZ9wJkpic66kFdt6aWVcn0_u40KLg=w794-h798-s-no?authuser=0",
+            "filename": "prod-5.png",
+            "size": 1080,
+            "type": "image/png"
+        }
+    ]
+}

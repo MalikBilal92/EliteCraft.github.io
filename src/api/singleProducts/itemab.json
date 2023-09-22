@@ -1,0 +1,55 @@
+{
+    "id": "itemab",
+    "name": "Decided",
+    "company": "Elite Crafts",
+    "price": 600000,
+    "colors": [
+        "#ff0000",
+        "#000000",
+        "#CDD0D0"
+    ],
+    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "mobile",
+    "featured": true,
+    "stock": 100,
+    "reviews": 100,
+    "stars": 4.8,
+    "image": [
+        {
+            "id": "randomid1",
+            "width": 1080,
+            "height": 650,
+            "url": "https://lh3.googleusercontent.com/pw/AJFCJaUImelFgUuOzMonOdeh7378cTmfNnvfc3C7ZDn8CW761_QozwWbV7QzCUg6SMANTmZWKKhLXB7uCwrWvcnGaP1Oz2To7GFTvj51_UqcEwnFFCAAt6zKgZcXUrgqDEevQx2feJ4c3LvAUBU5Fsqfg1y6WjTag6bphSCtinkVNqYuel_j8yHuSxAV2avFpdosXpgeA-w1c8SCaHW5MM4Cihizr9f8zoiEcCIyJyBa9zCQ_JyYP4zA_vEXGkUKXAjLaG6qvcadEUjJyy-ppKVxM1H78IUZ3u8aAiOoy2Z2VUCuezoOOJ-IblndKooux4gwDg8Okb88sdthELdOHHuyqrwsR1qbvYeQTDIihLwor8gd-9sDCQFCa-hwDPGPJ1ASRDmthMpiC8ETUvCiv4w5IR1F6T82d-lp5vnlkK68IRJ1lubVIZjEeeUuH1a8LoDHp5F4mEqEQGXCwA7QA32QtNYilumuNQb4PhPUT3fpRGdAX5QZEbCNcxPG3g0SbgkeSXxos-Kv5p6YhX3w106MUB6TU3Lu2_Iaw0-1SY0V6HczIom3D_R-uSsd9ZkCuI9pas1MjbY04D9jV3392mS0HE1BxOJhVa2nJwRY17926R-JvGcR0Sb-1k3wWDjPSYKvBpe5uIK02kdoloYzIpbbbRzd2Q6qWufr5Ym9VLkMJOn_cHs0Loszvq3amLgUl36ahb_7Ouf3f8gE2Sdu5hClRp0ucTWVYQh0jweiiIx4It-bphwyK5QEGkVvOlXmFMYAwJw1joqGZUtyvuLyUpUXW7tOPEM57QK5fbPmKTi46UhmfLx3NwAeZvxp2Xj8croPH5187cG3EA7kwvJgfeFlpzGmYACvqNOE63kwtndZHnvpjKIbMtD_YSTn40W0B9gofFrPt8dFeSON5Wy4s15e129SKgmZd_EusMKu-Bt0Dz8u4nL7q86CHjQ3ZQEq=w1000-h1000-s-no?authuser=1",
+            "filename": "prod-1.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": "https://lh3.googleusercontent.com/pw/AJFCJaUImelFgUuOzMonOdeh7378cTmfNnvfc3C7ZDn8CW761_QozwWbV7QzCUg6SMANTmZWKKhLXB7uCwrWvcnGaP1Oz2To7GFTvj51_UqcEwnFFCAAt6zKgZcXUrgqDEevQx2feJ4c3LvAUBU5Fsqfg1y6WjTag6bphSCtinkVNqYuel_j8yHuSxAV2avFpdosXpgeA-w1c8SCaHW5MM4Cihizr9f8zoiEcCIyJyBa9zCQ_JyYP4zA_vEXGkUKXAjLaG6qvcadEUjJyy-ppKVxM1H78IUZ3u8aAiOoy2Z2VUCuezoOOJ-IblndKooux4gwDg8Okb88sdthELdOHHuyqrwsR1qbvYeQTDIihLwor8gd-9sDCQFCa-hwDPGPJ1ASRDmthMpiC8ETUvCiv4w5IR1F6T82d-lp5vnlkK68IRJ1lubVIZjEeeUuH1a8LoDHp5F4mEqEQGXCwA7QA32QtNYilumuNQb4PhPUT3fpRGdAX5QZEbCNcxPG3g0SbgkeSXxos-Kv5p6YhX3w106MUB6TU3Lu2_Iaw0-1SY0V6HczIom3D_R-uSsd9ZkCuI9pas1MjbY04D9jV3392mS0HE1BxOJhVa2nJwRY17926R-JvGcR0Sb-1k3wWDjPSYKvBpe5uIK02kdoloYzIpbbbRzd2Q6qWufr5Ym9VLkMJOn_cHs0Loszvq3amLgUl36ahb_7Ouf3f8gE2Sdu5hClRp0ucTWVYQh0jweiiIx4It-bphwyK5QEGkVvOlXmFMYAwJw1joqGZUtyvuLyUpUXW7tOPEM57QK5fbPmKTi46UhmfLx3NwAeZvxp2Xj8croPH5187cG3EA7kwvJgfeFlpzGmYACvqNOE63kwtndZHnvpjKIbMtD_YSTn40W0B9gofFrPt8dFeSON5Wy4s15e129SKgmZd_EusMKu-Bt0Dz8u4nL7q86CHjQ3ZQEq=w1000-h1000-s-no?authuser=1",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": "https://lh3.googleusercontent.com/pw/AJFCJaUImelFgUuOzMonOdeh7378cTmfNnvfc3C7ZDn8CW761_QozwWbV7QzCUg6SMANTmZWKKhLXB7uCwrWvcnGaP1Oz2To7GFTvj51_UqcEwnFFCAAt6zKgZcXUrgqDEevQx2feJ4c3LvAUBU5Fsqfg1y6WjTag6bphSCtinkVNqYuel_j8yHuSxAV2avFpdosXpgeA-w1c8SCaHW5MM4Cihizr9f8zoiEcCIyJyBa9zCQ_JyYP4zA_vEXGkUKXAjLaG6qvcadEUjJyy-ppKVxM1H78IUZ3u8aAiOoy2Z2VUCuezoOOJ-IblndKooux4gwDg8Okb88sdthELdOHHuyqrwsR1qbvYeQTDIihLwor8gd-9sDCQFCa-hwDPGPJ1ASRDmthMpiC8ETUvCiv4w5IR1F6T82d-lp5vnlkK68IRJ1lubVIZjEeeUuH1a8LoDHp5F4mEqEQGXCwA7QA32QtNYilumuNQb4PhPUT3fpRGdAX5QZEbCNcxPG3g0SbgkeSXxos-Kv5p6YhX3w106MUB6TU3Lu2_Iaw0-1SY0V6HczIom3D_R-uSsd9ZkCuI9pas1MjbY04D9jV3392mS0HE1BxOJhVa2nJwRY17926R-JvGcR0Sb-1k3wWDjPSYKvBpe5uIK02kdoloYzIpbbbRzd2Q6qWufr5Ym9VLkMJOn_cHs0Loszvq3amLgUl36ahb_7Ouf3f8gE2Sdu5hClRp0ucTWVYQh0jweiiIx4It-bphwyK5QEGkVvOlXmFMYAwJw1joqGZUtyvuLyUpUXW7tOPEM57QK5fbPmKTi46UhmfLx3NwAeZvxp2Xj8croPH5187cG3EA7kwvJgfeFlpzGmYACvqNOE63kwtndZHnvpjKIbMtD_YSTn40W0B9gofFrPt8dFeSON5Wy4s15e129SKgmZd_EusMKu-Bt0Dz8u4nL7q86CHjQ3ZQEq=w1000-h1000-s-no?authuser=1",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url": "https://lh3.googleusercontent.com/pw/AJFCJaUImelFgUuOzMonOdeh7378cTmfNnvfc3C7ZDn8CW761_QozwWbV7QzCUg6SMANTmZWKKhLXB7uCwrWvcnGaP1Oz2To7GFTvj51_UqcEwnFFCAAt6zKgZcXUrgqDEevQx2feJ4c3LvAUBU5Fsqfg1y6WjTag6bphSCtinkVNqYuel_j8yHuSxAV2avFpdosXpgeA-w1c8SCaHW5MM4Cihizr9f8zoiEcCIyJyBa9zCQ_JyYP4zA_vEXGkUKXAjLaG6qvcadEUjJyy-ppKVxM1H78IUZ3u8aAiOoy2Z2VUCuezoOOJ-IblndKooux4gwDg8Okb88sdthELdOHHuyqrwsR1qbvYeQTDIihLwor8gd-9sDCQFCa-hwDPGPJ1ASRDmthMpiC8ETUvCiv4w5IR1F6T82d-lp5vnlkK68IRJ1lubVIZjEeeUuH1a8LoDHp5F4mEqEQGXCwA7QA32QtNYilumuNQb4PhPUT3fpRGdAX5QZEbCNcxPG3g0SbgkeSXxos-Kv5p6YhX3w106MUB6TU3Lu2_Iaw0-1SY0V6HczIom3D_R-uSsd9ZkCuI9pas1MjbY04D9jV3392mS0HE1BxOJhVa2nJwRY17926R-JvGcR0Sb-1k3wWDjPSYKvBpe5uIK02kdoloYzIpbbbRzd2Q6qWufr5Ym9VLkMJOn_cHs0Loszvq3amLgUl36ahb_7Ouf3f8gE2Sdu5hClRp0ucTWVYQh0jweiiIx4It-bphwyK5QEGkVvOlXmFMYAwJw1joqGZUtyvuLyUpUXW7tOPEM57QK5fbPmKTi46UhmfLx3NwAeZvxp2Xj8croPH5187cG3EA7kwvJgfeFlpzGmYACvqNOE63kwtndZHnvpjKIbMtD_YSTn40W0B9gofFrPt8dFeSON5Wy4s15e129SKgmZd_EusMKu-Bt0Dz8u4nL7q86CHjQ3ZQEq=w1000-h1000-s-no?authuser=1",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/png"
+        }
+    ]
+}

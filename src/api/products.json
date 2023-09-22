@@ -1,0 +1,73 @@
+[
+    {
+        "id": "itemaa",
+        "name": "Not done Yet",
+        "price": 5000000,
+        "colors": [
+            "socho",
+            "yet to final",
+            "main kyu btao"
+        ],
+        "company":"Elite Crafts",
+        "image": "https://lh3.googleusercontent.com/pw/AJFCJaUImelFgUuOzMonOdeh7378cTmfNnvfc3C7ZDn8CW761_QozwWbV7QzCUg6SMANTmZWKKhLXB7uCwrWvcnGaP1Oz2To7GFTvj51_UqcEwnFFCAAt6zKgZcXUrgqDEevQx2feJ4c3LvAUBU5Fsqfg1y6WjTag6bphSCtinkVNqYuel_j8yHuSxAV2avFpdosXpgeA-w1c8SCaHW5MM4Cihizr9f8zoiEcCIyJyBa9zCQ_JyYP4zA_vEXGkUKXAjLaG6qvcadEUjJyy-ppKVxM1H78IUZ3u8aAiOoy2Z2VUCuezoOOJ-IblndKooux4gwDg8Okb88sdthELdOHHuyqrwsR1qbvYeQTDIihLwor8gd-9sDCQFCa-hwDPGPJ1ASRDmthMpiC8ETUvCiv4w5IR1F6T82d-lp5vnlkK68IRJ1lubVIZjEeeUuH1a8LoDHp5F4mEqEQGXCwA7QA32QtNYilumuNQb4PhPUT3fpRGdAX5QZEbCNcxPG3g0SbgkeSXxos-Kv5p6YhX3w106MUB6TU3Lu2_Iaw0-1SY0V6HczIom3D_R-uSsd9ZkCuI9pas1MjbY04D9jV3392mS0HE1BxOJhVa2nJwRY17926R-JvGcR0Sb-1k3wWDjPSYKvBpe5uIK02kdoloYzIpbbbRzd2Q6qWufr5Ym9VLkMJOn_cHs0Loszvq3amLgUl36ahb_7Ouf3f8gE2Sdu5hClRp0ucTWVYQh0jweiiIx4It-bphwyK5QEGkVvOlXmFMYAwJw1joqGZUtyvuLyUpUXW7tOPEM57QK5fbPmKTi46UhmfLx3NwAeZvxp2Xj8croPH5187cG3EA7kwvJgfeFlpzGmYACvqNOE63kwtndZHnvpjKIbMtD_YSTn40W0B9gofFrPt8dFeSON5Wy4s15e129SKgmZd_EusMKu-Bt0Dz8u4nL7q86CHjQ3ZQEq=w1000-h1000-s-no?authuser=1",
+        "description": "O ja o ja tur ja. ida tu Description prny wala. kadi kitab khool k pari ay, aj description prn agya ay.",
+        "category": "Jackets",
+        "shipping": true
+    },{
+        "id": "itemab",
+        "name": "Not done Yet",
+        "price": 5000000,
+        "colors": [
+            "socho",
+            "yet to final",
+            "main kyu btao"
+        ],
+        "company":"Hand Made",
+        "image": "https://plus.unsplash.com/premium_photo-1677507321948-d3f8b80fe6d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2874&q=80",
+        "description": "O ja o ja tur ja. ida tu Description prny wala. kadi kitab khool k pari ay, aj description prn agya ay.",
+        "category": "Still thinking",
+        "shipping": true
+    },{
+        "id": "itemac",
+        "name": "Not done Yet",
+        "price": 5000000,
+        "colors": [
+            "socho",
+            "yet to final",
+            "main kyu btao"
+        ],
+        "company":"Thinking to Make it by hand",
+        "image": "https://plus.unsplash.com/premium_photo-1677507321948-d3f8b80fe6d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2874&q=80",
+        "description": "O ja o ja tur ja. ida tu Description prny wala. kadi kitab khool k pari ay, aj description prn agya ay.",
+        "category": "Apoooren",
+        "shipping": true
+    },{
+        "id": "itemad",
+        "name": "Not done Yet",
+        "price": 5000000,
+        "colors": [
+            "socho",
+            "yet to final",
+            "main kyu btao"
+        ],
+        "company":"Thinking to Make it by hand",
+        "image": "https://plus.unsplash.com/premium_photo-1677507321948-d3f8b80fe6d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2874&q=80",
+        "description": "O ja o ja tur ja. ida tu Description prny wala. kadi kitab khool k pari ay, aj description prn agya ay.",
+        "category": "Apoooren",
+        "shipping": true
+    },{
+        "id": "itemae",
+        "name": "Not done Yet",
+        "price": 5000000,
+        "colors": [
+            "socho",
+            "yet to final",
+            "main kyu btao"
+        ],
+        "company":"Thinking to Make it by hand",
+        "image": "https://plus.unsplash.com/premium_photo-1677507321948-d3f8b80fe6d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2874&q=80",
+        "description": "O ja o ja tur ja. ida tu Description prny wala. kadi kitab khool k pari ay, aj description prn agya ay.",
+        "category": "Apoooren",
+        "shipping": true
+    }
+]
